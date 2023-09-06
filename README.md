@@ -43,7 +43,7 @@ Now, the m6A-express package can be installed by the following R commands:
 ```r
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
-devtools::install_github("NWPU-903PR/m6Aexpress")
+devtools::install_github("NWPU-903PR/m6Aexpress@main")
 library(m6Aexpress)
 ```
 # Usage Example
